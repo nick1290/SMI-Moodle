@@ -1,0 +1,10 @@
+{
+  "name": "SMI Mobile",
+  "app_id": "com.smi.smimobile",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "watchPatterns": []
+}
